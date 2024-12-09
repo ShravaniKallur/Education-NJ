@@ -4,11 +4,13 @@
 ### Edward J. Bloustein School of Planning and Public Policy
 
 ## About
-This project aims to understand the broader spatial patterns of educational attainment, enrollment, and other relevant demographic or socio-economic indicators and explore the relationship between public school distribution and broader educational patterns in New Jersey. Research Questions:
-What are the spatial patterns of educational attainment (e.g., high school and higher degrees) across counties and census tracts in New Jersey?
-How do enrollment rates vary across census tracts and counties in New Jersey?
-How does the distribution of public schools align with regions of high or low educational attainment and enrollment?
-Are there regions with limited school access that also exhibit lower educational outcomes?
+This project aims to understand the broader spatial patterns of educational attainment, enrollment, and other relevant demographic or socio-economic indicators and explore the relationship between public school distribution and broader educational patterns in New Jersey. 
+
+Research Questions:
+1. What are the spatial patterns of educational attainment (e.g., high school and higher degrees) across counties and census tracts in New Jersey?
+2. How do enrollment rates vary across census tracts and counties in New Jersey?
+3. How does the distribution of public schools align with regions of high or low educational attainment and enrollment?
+4. Are there regions with limited school access that also exhibit lower educational outcomes?
 
 ## Data Sources
 1. Census data for educational attainment and school enrollment rates - American Community Survey, CensusAPI
@@ -19,6 +21,7 @@ Are there regions with limited school access that also exhibit lower educational
 <section>
     <h2>Education Indicators by Census Tracts in New Jersey (2022) </h2>
     The set of maps illustrates the spatial distribution of key education indicators across census tracts in New Jersey for the year 2022. Each map uses a consistent classification scheme with defined intervals (20, 40, 60, 80, and 100%) and a unique color gradient to highlight variation in educational attainment, enrollment, and youth outcomes. These maps aim to uncover regional patterns and disparities in education-related metrics.
+    
     Each map uses low-reliability hatching to indicate areas where data quality or sample sizes may limit interpretability. County boundaries and labels provide additional geographic 
 context, while legends and consistent color schemes ensure readability and comparison across indicators.
     <img src="NJ_Indicators_Small_Multiples_v.png" alt="Education Indicators by Census Tracts" style="display: block; margin: auto;" />
@@ -44,7 +47,10 @@ You can explore [this map as its own web page here](https://drive.google.com/uc?
     The interactive map provides a dynamic exploration of educational indicators and public school data across New Jersey. Users can toggle between multiple layers, including:
 
     School Heat Map: Visualizes the density of schools across the state, with brighter areas indicating higher concentrations.
+    
     Educational Indicators: Includes layers for various educational metrics, such as high school completion rates, bachelor's degree attainment, public school enrollment percentages, and disconnected youth rates. Each layer uses a consistent classification scheme and intuitive color gradients for easy comparison.
+    
     School Points: Displays individual schools with markers color-coded by status (e.g., open, closed, or new). Clicking on a marker reveals detailed information about the school, including its name, address, and educational level.
+    
     Users can also switch between base maps (OpenStreetMap and CartoDB Positron) for additional contextual layers. The map allows for a deeper understanding of spatial patterns in education while offering flexibility for specific inquiries and visual exploration.
 </section>
