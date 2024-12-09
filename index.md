@@ -19,7 +19,7 @@ Are there regions with limited school access that also exhibit lower educational
 <section>
     <h2>Education Indicators by Census Tracts in New Jersey (2022) </h2>
     <p>The image below visualizes multiple indicators for education in New Jersey:</p>
-    <iframe src="NJ_Indicators_Small_Multiples_v.png" width="100%" height="600px"></iframe>
+    <img src="NJ_Indicators_Small_Multiples_v.png" alt="Education Indicators by Census Tracts" style="display: block; margin: auto;" />
 </section>
 
 <section>
@@ -34,5 +34,5 @@ You can explore [this map as its own web page here](https://drive.google.com/uc?
 <section>
     <h2>Legend</h2>
     <p>The legend for the education indicators is shown below:</p>
-    <iframe src="Indicator_Legends.png" width="100%" height="600px"></iframe>
+    <img src="Indicator_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />
 </section>
