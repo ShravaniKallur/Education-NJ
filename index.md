@@ -40,7 +40,9 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
             height="600px">
     </iframe>
 </section>
+
 You can explore [this map as its own web page here](https://drive.google.com/uc?id=1XQMpsgVHlR2Exs2rvyRrreDlDSNPt4EO)
+
 <section>
     <p>The legend for the education indicators is shown below:</p>
     <img src="Indicator_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
