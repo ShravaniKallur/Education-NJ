@@ -35,13 +35,13 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 <section>
     <h2>Interactive Map</h2>
     <p>Explore the interactive map below:</p>
-    <iframe src="https://drive.google.com/uc?id=1XQMpsgVHlR2Exs2rvyRrreDlDSNPt4EO" 
+    <iframe src="https://drive.google.com/file/d/1XQMpsgVHlR2Exs2rvyRrreDlDSNPt4EO/view?usp=sharing" 
             width="100%" 
             height="600px">
     </iframe>
 </section>
 
-You can explore [this map as its own web page here](https://drive.google.com/uc?id=1XQMpsgVHlR2Exs2rvyRrreDlDSNPt4EO)
+You can explore [this map as its own web page here](https://drive.google.com/file/d/1XQMpsgVHlR2Exs2rvyRrreDlDSNPt4EO/view?usp=sharing) 
 
 <section>
     <p>The legend for the education indicators is shown below:</p>
